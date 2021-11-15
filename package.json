@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "expo-av": "~9.2.3",
+    "firebase": "8.2.3",
+    "expo-constants": "~11.0.2",
+    "expo-permissions": "~12.1.1",
+    "react-navigation": "4.0.10",
+    "@expo/vector-icons": "^12.0.0",
+    "react-native-paper": "3.1.1",
+    "expo-barcode-scanner": "~10.2.2",
+    "react-native-screens": "~3.4.0",
+    "react-navigation-tabs": "*",
+    "react-native-reanimated": "~2.2.0",
+    "@react-navigation/native": "^3.6.2",
+    "react-native-gesture-handler": "~1.10.2"
+  }
+}
